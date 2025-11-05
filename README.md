@@ -19,8 +19,8 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · OOPs · Git · GitHub · D
 
 📫 Contact
 
-💼 LinkedIn
- · 📧 Email
+💼 LinkedIn : linkedin.com/in/saniya-shaikh-a3711536b
+ · 📧 Email : saniya4572@gmail.com
 
 📌 Pinned
 🐍 Python-Learnings — Public Repository
