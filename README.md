@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Saniya Shaikh
 
-<!--
-**saniya-bca/saniya-bca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Python Enthusiast | 💡 Data Science Learner | Data Analytics
 
-Here are some ideas to get you started:
+🧠 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Python fundamentals, data handling, and machine learning basics.
+Practicing through mini-projects like data visualization, prediction models, and automation scripts.
+Always curious to explore how data can solve real-world problems!
+
+📂 Pinned Repos
+
+See my pinned repositories below — they include beginner exercises, assignments, and hands-on projects.
+I regularly upload notebooks as I learn more about Python, Pandas, and Machine Learning.
+
+🧩 Skills
+
+Python · Pandas · NumPy · Matplotlib · Seaborn · OOPs · Git · GitHub · Data Visualization
+
+📫 Contact
+
+💼 LinkedIn
+ · 📧 Email
+
+📌 Pinned
+🐍 Python-Learnings — Public Repository
+
+A complete collection of my Python learning journey — from basics and assignments to OOPs concepts, mini-projects, and popular Python libraries.
