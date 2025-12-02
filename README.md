@@ -33,7 +33,6 @@ I love solving real-world problems with data and continuously learning new tools
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-bca&show_icons=true&locale=en&layout=compact" alt="saniya-bca" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saniya-bca&show_icons=true&locale=en" alt="saniya-bca" /></p>
 
 <h3 align="left">Quote:</h3>
 
