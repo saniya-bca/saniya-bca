@@ -34,6 +34,18 @@ I love solving real-world problems with data and continuously learning new tools
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saniya-bca&show_icons=true&locale=en&layout=compact" alt="saniya-bca" /></p>
 
 
+
+
+
+
+
+<br>
+
+
+
+
+
+
 <h3 align="left">Quote:</h3>
 
 "Data is the new oil – refining it wisely creates value."
