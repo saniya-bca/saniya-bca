@@ -38,7 +38,7 @@ I love solving real-world problems with data and continuously learning new tools
 <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
 </a>
 </p>
-<br>
+
 
 
 <h3 align="left">Quote:</h3>
